@@ -16,8 +16,8 @@ A high-performance CSV processing system that:
 
 ```bash
 # Clone and setup
-git clone <repository-url>
-cd distance-learning-3
+git clone https://github.com/einkaf/Concurrent-File-Processing-System.git
+cd filename
 mkdir data && cd data
 
 # Copy required scripts
@@ -129,7 +129,3 @@ ls -l 2*.csv
 | Slow performance | Check system resources, verify threading works |
 | Semaphore bottleneck | Verify initialization before thread spawn |
 | File permission errors | Check `chmod 600` on output files |
-
-## 📄 License
-
-MIT License - Feel free to use and modify
