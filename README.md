@@ -1,8 +1,8 @@
-Operating Systems
+# Distance Learning 3: Operating Systems
 
 Python solution for processing CSV files with prime number calculations using multi-threading and semaphores.
 
-📋 Overview
+## 📋 Overview
 
 A high-performance CSV processing system that:
 - Processes 6 CSV files containing 60,000 numbers concurrently
@@ -10,9 +10,9 @@ A high-performance CSV processing system that:
 - Enforces resource access control using semaphores
 - Manages file permissions and system-level operations
 
-Built with: Multi-threading, semaphores, subprocess management, and OS-level file operations.
+**Built with:** Multi-threading, semaphores, subprocess management, and OS-level file operations.
 
-🚀 Quick Start
+## 🚀 Quick Start
 
 ```bash
 # Clone and setup
