@@ -1,4 +1,4 @@
-# Distance Learning 3: Operating Systems
+# Operating Systems
 
 Python solution for processing CSV files with prime number calculations using multi-threading and semaphores.
 
